@@ -14,4 +14,4 @@ Student in South Africa. I write code and look after my dogs; most days that's t
 
 Rest is on my [repos](https://github.com/golba98?tab=repositories).
 
-`TypeScript` `Python` `React` `Node` `Cloudflare`
+`TypeScript` `JavaScript` `Python` `React` `Vue` `Angular` `Node` `Express` `Electron` `Cloudflare` `Vercel` `Render`
