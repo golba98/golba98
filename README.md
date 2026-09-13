@@ -4,7 +4,7 @@ Student in South Africa. I write code and look after my dogs; most days that's t
 
 ## Projects
 
-- [Ubume](https://github.com/golba98/Codexa) — terminal workspace for coding agents (Codex, Claude Code, Gemini, local models)
+- [Ubume](https://github.com/golba98/Ubume) — terminal workspace for coding agents (Codex, Claude Code, Gemini, local models)
 - [SyncroEdit](https://github.com/golba98/SyncroEdit) — real-time collaborative editor
 - [Cue Helper](https://github.com/golba98/Cue-Helper) — display-aware presentation companion
 - [Movie App](https://github.com/golba98/Movie_App) — streaming and watch-party app
