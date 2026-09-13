@@ -1,17 +1,26 @@
 # Jordan Vorster
 
-Student in South Africa. I write code and look after my dogs; most days that's the whole story.
+Computer Science student at the University of London
 
-## Projects
+Eastern Cape, South Africa
 
-- [Ubume](https://github.com/golba98/Ubume) — terminal workspace for coding agents (Codex, Claude Code, Gemini, local models)
-- [SyncroEdit](https://github.com/golba98/SyncroEdit) — real-time collaborative editor
-- [Cue Helper](https://github.com/golba98/Cue-Helper) — display-aware presentation companion
-- [Movie App](https://github.com/golba98/Movie_App) — streaming and watch-party app
-- [LLM Codexa](https://github.com/golba98/LLM-Codexa-v1) — local LLM tooling
-- [Video Transcriber](https://github.com/golba98/Video-Transcriber) — transcribes video in Python
-- [Data Visualizer](https://github.com/golba98/Data-Visualizer) — data visualization tool
+I like dogs, coding and maths
 
-Rest is on my [repos](https://github.com/golba98?tab=repositories).
+### Building
 
-`TypeScript` `JavaScript` `Python` `React` `Vue` `Angular` `Node` `Express` `Electron` `Cloudflare` `Vercel` `Render`
+- [Ubume](https://github.com/golba98/Ubume) · a terminal for coding agents
+- [SyncroEdit](https://github.com/golba98/SyncroEdit) · real-time collaborative editor
+
+### Other projects
+
+- [Cue Helper](https://github.com/golba98/Cue-Helper) · presentation companion
+- [Movie App](https://github.com/golba98/Movie_App) · streaming and watch-party app
+- [LLM Codexa](https://github.com/golba98/LLM-Codexa-v1-PyTorch) · local LLM tooling
+- [Video Transcriber](https://github.com/golba98/Video-Transcriber) · transcribes video in Python
+- [Data Visualizer](https://github.com/golba98/Data-Visualizer) · data visualization tool
+
+### Stack
+
+TypeScript · JavaScript · Python · React · Vue · Angular · Node · Express · Electron · Cloudflare · Vercel · Render
+
+More on my [repos](https://github.com/golba98?tab=repositories)
