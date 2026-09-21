@@ -13,8 +13,6 @@ I like dogs, coding and maths
 
 ### Other projects
 
-- [Cue Helper](https://github.com/golba98/Cue-Helper) · presentation companion
-- [Movie App](https://github.com/golba98/Movie_App) · streaming and watch-party app
 - [LLM Codexa](https://github.com/golba98/LLM-Codexa-v1-PyTorch) · local LLM tooling
 - [Video Transcriber](https://github.com/golba98/Video-Transcriber) · transcribes video in Python
 - [Data Visualizer](https://github.com/golba98/Data-Visualizer) · data visualization tool
